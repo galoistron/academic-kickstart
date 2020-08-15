@@ -60,4 +60,4 @@ email: ""
 #- Visitors
 ---
 
-
+I received my PhD in algebraic geometry in Spring 2020 and have been a postdoctoral fellow at University of Alberta since. My background is in algebra, algebraic geometry and number theory. This has allowed me to develop keen interest in related areas of public key cryptography, elliptic curve cryptography, coding theory(in particular polar codes), and blockchain technology. I have intermediate proficiency in Rust and Python.
