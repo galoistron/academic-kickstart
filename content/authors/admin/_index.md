@@ -18,8 +18,7 @@ organizations:
   url: "https://www.ualberta.ca/mathematical-and-statistical-sciences/index.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I received my PhD in algebraic geometry in Spring 2020 and have been a postdoctoral fellow at University of Alberta since. My background is in algebra, algebraic geometry and number theory. This has allowed me to develop keen interest in related areas of public key cryptography, elliptic curve cryptography, coding theory(in particular polar codes), and blockchain technology. I have intermediate proficiency in Rust and Python.
-
+bio: I am interested in cryptography and blockchain technology.
 
 interests:
 - Cryptography
@@ -47,9 +46,9 @@ social:
   link: https://github.com/galoistron
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: files/CV.pdf
+# - icon: cv
+ #  icon_pack: ai
+  # link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -58,4 +57,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 
 ---
+I received my PhD in algebraic geometry in Spring 2020 and have been a postdoctoral fellow at University of Alberta since. My background is in algebra, algebraic geometry and number theory. This has allowed me to develop keen interest in related areas of public key cryptography, elliptic curve cryptography, coding theory(in particular polar codes), and blockchain technology. I have intermediate proficiency in Rust and Python.
 
