@@ -30,7 +30,7 @@ interests:
 education:
   courses:
   - course: PhD in algebraic Geometry
-    institution: University of British Columbia
+    institution: University of British Columbia, Vancouver
     year: 2020
   - course: BS-MS in mathematics
     institution: Indian Institute of Science Education and Research, Pune
@@ -49,7 +49,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: files/cv.pdf
+   link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
