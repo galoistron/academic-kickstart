@@ -34,7 +34,7 @@ education:
     year: 2020
   - course: BS-MS in mathematics
     institution: Indian Institute of Science Education and Research, Pune
-    year: 2011
+    year: 2016
   
 
 # Social/Academic Networking
@@ -56,8 +56,6 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+
 ---
 
